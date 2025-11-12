@@ -1,2 +1,5 @@
 # task-to-do
-free lance job
+#free lance job
+chmod +x all.sh
+#run in terminal
+./all.sh
